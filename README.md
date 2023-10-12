@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-<span align="left">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiancaGrenzel)](https://github.com/BiancaGrenzel/github-readme-stats)</span>
+<span align="right">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiancaGrenzel)](https://github.com/BiancaGrenzel/github-readme-stats)</span>
 
 Meu nome é Bianca Grenzel Severo, e sou apaixonada por técnologia!</br>
 Estou na área de programação desde os 16 anos, e estou procurando me aperfeiçoar técnicamente para virar tech-leader :)
