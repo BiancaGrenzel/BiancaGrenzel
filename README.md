@@ -29,7 +29,7 @@ class Skills extends Desenvolvedor {
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<img align="left" height="94px" width="94px" alt="Nomad" src="https://media.licdn.com/dms/image/C4D0BAQE9GGFNNqIm9A/company-logo_200_200/0/1602786740574?e=2147483647&v=beta&t=OF9hQOszXXLNqXgZeTPu96emoAEK4aMPiamwjM4MyH4"/>
+<img align="left" height="94px" width="94px" alt="Nomad" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl-iNVa_XWbHKsPBuVA4iphFpZbvIUQSpp2Q9gTLS8ecU85HRYjWQVmFAXDkZVqePvnW0&usqp=CAU"/>
 
 **Software Engineer** \
 [**Nomad**] • Full-time \
