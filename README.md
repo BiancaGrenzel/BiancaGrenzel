@@ -43,7 +43,7 @@ Linguagens & Tecnologias: `Nest`, `Javascript`, `Typescript`, `React`, `Testes U
 Linguagens & Tecnologias: `React`, `React-Native`, `Typescript`, `Material UI`, `Styled Components`, `Testes Unitários com JEST`, `Storybook`, `Figma`\
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Cubos Tecnologia" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl-iNVa_XWbHKsPBuVA4iphFpZbvIUQSpp2Q9gTLS8ecU85HRYjWQVmFAXDkZVqePvnW0&usqp=CAU"/>
+<img align="left" height="94px" width="94px" alt="Cubos Tecnologia" src="https://media.licdn.com/dms/image/C4D0BAQHRatc-sH4PLw/company-logo_200_200/0/1657916139296?e=2147483647&v=beta&t=8pGVfu7C6oGNP3vcbB3YHOCRNuFEgh_O_jbMLw8kkmI"/>
 
 **Front-end Developer** \
 [**Cubos Tecnologia**] • Full-time \
