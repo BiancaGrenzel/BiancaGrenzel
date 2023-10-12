@@ -43,7 +43,7 @@ Linguagens & Tecnologias: `Nest`, `Javascript`, `Typescript`, `React`, `Testes U
 Linguagens & Tecnologias: `React`, `React-Native`, `Typescript`, `Material UI`, `Styled Components`, `Testes Unitários com JEST`, `Storybook`, `Figma`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Cubos Tecnologia" src="[https://nubank.com.br/images/nu-icon.png?v=2](https://media.licdn.com/dms/image/C4D0BAQHfMvjLq_YWGg/company-logo_200_200/0/1659364668315?e=2147483647&v=beta&t=2cAVJcVQa4p0_9X3a2vKQHAxYjh-IYOZLfyVol7Dchg)"/>]
+<img align="left" height="94px" width="94px" alt="Cubos Tecnologia" src="[https://nubank.com.br/images/nu-icon.png?v=2](https://media.licdn.com/dms/image/C4D0BAQHfMvjLq_YWGg/company-logo_200_200/0/1659364668315?e=2147483647&v=beta&t=2cAVJcVQa4p0_9X3a2vKQHAxYjh-IYOZLfyVol7Dchg)"/>
 
 **Front-end Developer** \
 [**Cubos Tecnologia**] • Full-time \
