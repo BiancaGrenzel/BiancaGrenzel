@@ -5,9 +5,6 @@ Estou na área de programação desde os 16 anos, e estou procurando me aperfei�
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiancaGrenzel)](https://github.com/BiancaGrenzel/github-readme-stats)
-<br/>
-
 ## Mais sobre mim
 ```js
 import Desenvolvedor from "Bia";
