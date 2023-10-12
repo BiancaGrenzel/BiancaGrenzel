@@ -4,7 +4,7 @@
 
 Meu nome é Bianca Grenzel Severo, e sou apaixonada por técnologia!</br>
 Estou na área de programação desde os 16 anos, e estou procurando me aperfeiçoar técnicamente para virar tech-leader :)
-
+<br/>
 
 ## Mais sobre mim
 ```js
@@ -23,7 +23,7 @@ class Skills extends Desenvolvedor {
   geral = ["Github", "Jira", "Scrum", "POO"]
 }
 ```
-
+<br/>
 
 # 📋 Expêriencia de Trabalho
 
