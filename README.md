@@ -29,7 +29,7 @@ class Skills extends Desenvolvedor {
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-<img align="left" height="94px" width="94px" alt="Nomad" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl-iNVa_XWbHKsPBuVA4iphFpZbvIUQSpp2Q9gTLS8ecU85HRYjWQVmFAXDkZVqePvnW0&usqp=CAU"/>
+<img align="left" height="94px" width="94px" alt="Nomad" src="https://media.licdn.com/dms/image/C4D0BAQE9GGFNNqIm9A/company-logo_200_200/0/1602786740574?e=2147483647&v=beta&t=OF9hQOszXXLNqXgZeTPu96emoAEK4aMPiamwjM4MyH4"/>
 
 **Software Engineer** \
 [**Nomad**] • Full-time \
@@ -43,7 +43,7 @@ Linguagens & Tecnologias: `Nest`, `Javascript`, `Typescript`, `React`, `Testes U
 Linguagens & Tecnologias: `React`, `React-Native`, `Typescript`, `Material UI`, `Styled Components`, `Testes Unitários com JEST`, `Storybook`, `Figma`\
 <br/>
 
-<img align="left" height="94px" width="94px" alt="Cubos Tecnologia" src="[https://nubank.com.br/images/nu-icon.png?v=2](https://media.licdn.com/dms/image/C4D0BAQHfMvjLq_YWGg/company-logo_200_200/0/1659364668315?e=2147483647&v=beta&t=2cAVJcVQa4p0_9X3a2vKQHAxYjh-IYOZLfyVol7Dchg)"/>
+<img align="left" height="94px" width="94px" alt="Cubos Tecnologia" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl-iNVa_XWbHKsPBuVA4iphFpZbvIUQSpp2Q9gTLS8ecU85HRYjWQVmFAXDkZVqePvnW0&usqp=CAU"/>
 
 **Front-end Developer** \
 [**Cubos Tecnologia**] • Full-time \
