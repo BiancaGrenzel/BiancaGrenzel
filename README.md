@@ -1,8 +1,13 @@
-# 👋 Olá!
 
+# ⭐ Olá! ⭐
+
+<img align="right" alt="Bianca" src="https://github.com/BiancaGrenzel/BiancaGrenzel/assets/57267163/371e8f1a-8ec2-46fe-b8f0-e6b51546d7d0"/>
+<br/>
 Meu nome é Bianca Grenzel Severo, e sou apaixonada por técnologia!</br>
 Estou na área de programação desde os 16 anos, e estou procurando me aperfeiçoar técnicamente para virar tech-leader :)
 
+<br/>
+<br/>
 <br/>
 
 ## Mais sobre mim
