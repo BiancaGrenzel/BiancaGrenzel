@@ -17,7 +17,7 @@ import Desenvolvedor from "Bia";
 class SobreMim extends Desenvolvedor {
   nome = "Bianca Grenzel Severo";
   area = "Programação";
-  idade = 21;
+  idade = 23;
 }
 
 class Skills extends Desenvolvedor {
